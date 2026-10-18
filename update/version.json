@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/QingTian144/update@main/update/app-debug.apk",
+  "note": "新增云更新（免服务器 jsDelivr）；强制更新；VT 内核执行说明；背景光效增强",
+  "force": false,
+  "minVersion": 0
+}
