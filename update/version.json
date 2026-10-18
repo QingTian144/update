@@ -1,8 +1,9 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/QingTian144/update@main/update/app-debug.apk",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/QingTian144/update@main/update/app-debug.apk?v=1792345337",
   "note": "新增云更新（免服务器 jsDelivr）；强制更新；VT 内核执行说明；背景光效增强",
   "force": true,
-  "minVersion": 0
+  "minVersion": 0,
+  "stamp": "1792345337"
 }
