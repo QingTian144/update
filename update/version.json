@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792380250",
-  "note": "更新源切换为 GitHub Pages（约10分钟缓存、始终最新），修复 jsDelivr @main 缓存导致收不到更新的问题",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792381988",
+  "note": "新增酷炫启动动画；修复 Android 11+ 检测不到和平精英的问题",
   "force": true,
   "minVersion": 0,
-  "stamp": "1792380250"
+  "stamp": "1792381988"
 }
