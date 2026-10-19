@@ -1,23 +1,29 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "apkUrl": "https://github.com/QingTian144/update/releases/download/v1.0.13/app-debug.apk",
-  "apkSize": 59376015,
-  "apkMd5": "08eebb9e87b441f5d4e00cd3642fdd23",
-  "note": "1.增加和平美化 2.增加王者内核于嫣，请刷入LQ驱动使用 3.修复bug",
+  "versionCode": 15,
+  "versionName": "1.0.14",
+  "apkUrl": "https://github.com/QingTian144/update/releases/download/v1.0.14/app-debug.apk",
+  "apkSize": 59379059,
+  "apkMd5": "0916753cf85e578049d657fcfd4c1e34",
+  "note": "修复bug 大幅提升更新下载速度（多线程分片并行+补全多镜像备份）",
   "force": false,
   "minVersion": 0,
-  "stamp": "1792417869",
+  "stamp": "1792418928",
   "patches": [
     {
+      "from": 14,
+      "url": "https://qingtian144.github.io/update/update/patch-14-15.bin?v=1792418928",
+      "size": 98416,
+      "fromMd5": "08eebb9e87b441f5d4e00cd3642fdd23"
+    },
+    {
       "from": 13,
-      "url": "https://qingtian144.github.io/update/update/patch-13-14.bin?v=1792417869",
-      "size": 26555669,
+      "url": "https://qingtian144.github.io/update/update/patch-13-15.bin?v=1792418928",
+      "size": 26558123,
       "fromMd5": "5b30c3ed8f4389fa72bc85bc1b967fe8"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-13-14.bin?v=1792417869",
-  "patchSize": 26555669,
-  "patchFrom": 13,
-  "patchFromMd5": "5b30c3ed8f4389fa72bc85bc1b967fe8"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-14-15.bin?v=1792418928",
+  "patchSize": 98416,
+  "patchFrom": 14,
+  "patchFromMd5": "08eebb9e87b441f5d4e00cd3642fdd23"
 }
