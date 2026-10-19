@@ -1,9 +1,29 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792384552",
-  "note": "VT内核执行时自动输入：数字默认1、确认默认y，可一键开关",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792388351",
+  "apkSize": 57272021,
+  "apkMd5": "174b982879d1216a16a10bbb0471c498",
+  "note": "增量更新支持多版本补丁：任何旧版本（1.0.3/1.0.4等）都能增量更新到最新版，无需再下57MB全量包",
   "force": true,
   "minVersion": 0,
-  "stamp": "1792384552"
+  "stamp": "1792388351",
+  "patches": [
+    {
+      "from": 5,
+      "url": "https://qingtian144.github.io/update/update/patch-5-7.bin?v=1792388351",
+      "size": 511439,
+      "fromMd5": "d7110c12b619906318b9b836c50f99df"
+    },
+    {
+      "from": 4,
+      "url": "https://qingtian144.github.io/update/update/patch-4-7.bin?v=1792388351",
+      "size": 511431,
+      "fromMd5": "7eed6fcf2829f2d15ba2f4bbb70b65fd"
+    }
+  ],
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-5-7.bin?v=1792388351",
+  "patchSize": 511439,
+  "patchFrom": 5,
+  "patchFromMd5": "d7110c12b619906318b9b836c50f99df"
 }
