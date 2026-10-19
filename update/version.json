@@ -1,29 +1,35 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/QingTian144/update/releases/download/v1.0.14/app-debug.apk",
-  "apkSize": 59379059,
-  "apkMd5": "0916753cf85e578049d657fcfd4c1e34",
-  "note": "修复bug 大幅提升更新下载速度（多线程分片并行+补全多镜像备份）",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://github.com/QingTian144/update/releases/download/v1.0.15/app-debug.apk",
+  "apkSize": 59379755,
+  "apkMd5": "cc2e9f30f358b9c614725b534b425005",
+  "note": "1.和平美化内核执行需要输入时自动输入1；2.王者内核于嫣赋予777权限并自动输入1，执行成功后自动打开王者荣耀；3.和平分类内核(VT/bing/美化)执行成功后统一弹出打开和平精英；4.王者分类内核执行成功后弹出打开王者荣耀；5.修复非游戏分类内核完成后误启动游戏的问题",
   "force": false,
   "minVersion": 0,
-  "stamp": "1792418928",
+  "stamp": "1792421033",
   "patches": [
     {
+      "from": 15,
+      "url": "https://qingtian144.github.io/update/update/patch-15-16.bin?v=1792421033",
+      "size": 113587,
+      "fromMd5": "0916753cf85e578049d657fcfd4c1e34"
+    },
+    {
       "from": 14,
-      "url": "https://qingtian144.github.io/update/update/patch-14-15.bin?v=1792418928",
-      "size": 98416,
+      "url": "https://qingtian144.github.io/update/update/patch-14-16.bin?v=1792421033",
+      "size": 113557,
       "fromMd5": "08eebb9e87b441f5d4e00cd3642fdd23"
     },
     {
       "from": 13,
-      "url": "https://qingtian144.github.io/update/update/patch-13-15.bin?v=1792418928",
-      "size": 26558123,
+      "url": "https://qingtian144.github.io/update/update/patch-13-16.bin?v=1792421033",
+      "size": 26558644,
       "fromMd5": "5b30c3ed8f4389fa72bc85bc1b967fe8"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-14-15.bin?v=1792418928",
-  "patchSize": 98416,
-  "patchFrom": 14,
-  "patchFromMd5": "08eebb9e87b441f5d4e00cd3642fdd23"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-15-16.bin?v=1792421033",
+  "patchSize": 113587,
+  "patchFrom": 15,
+  "patchFromMd5": "0916753cf85e578049d657fcfd4c1e34"
 }
