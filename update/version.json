@@ -1,41 +1,47 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792406786",
-  "apkSize": 40582251,
-  "apkMd5": "4c65e92a4d7986d684ea27f00a676c00",
-  "note": "修复 VT 内核启动失败（解压报错）",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792411239",
+  "apkSize": 40584079,
+  "apkMd5": "9ac3eff0b8f8a1232b3f56c9965dbb7e",
+  "note": "改签 debug 密钥可直接覆盖更新；内核列表新增游戏分类与合计，现有两个内核归入和平精英",
   "force": true,
   "minVersion": 0,
-  "stamp": "1792406786",
+  "stamp": "1792411239",
   "patches": [
     {
+      "from": 11,
+      "url": "https://qingtian144.github.io/update/update/patch-11-12.bin?v=1792411239",
+      "size": 104857,
+      "fromMd5": "4c65e92a4d7986d684ea27f00a676c00"
+    },
+    {
       "from": 10,
-      "url": "https://qingtian144.github.io/update/update/patch-10-11.bin?v=1792406786",
-      "size": 91574,
+      "url": "https://qingtian144.github.io/update/update/patch-10-12.bin?v=1792411239",
+      "size": 104872,
       "fromMd5": "89be3173c545019d98f35dcaffbae805"
     },
     {
       "from": 9,
-      "url": "https://qingtian144.github.io/update/update/patch-9-11.bin?v=1792406786",
-      "size": 103330,
+      "url": "https://qingtian144.github.io/update/update/patch-9-12.bin?v=1792411239",
+      "size": 104931,
       "fromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
     },
     {
       "from": 7,
-      "url": "https://qingtian144.github.io/update/update/patch-7-11.bin?v=1792406786",
-      "size": 509428,
+      "url": "https://qingtian144.github.io/update/update/patch-7-12.bin?v=1792411239",
+      "size": 510558,
       "fromMd5": "174b982879d1216a16a10bbb0471c498"
     },
     {
       "from": 5,
-      "url": "https://qingtian144.github.io/update/update/patch-5-11.bin?v=1792406786",
-      "size": 534886,
+      "url": "https://qingtian144.github.io/update/update/patch-5-12.bin?v=1792411239",
+      "size": 537905,
       "fromMd5": "d7110c12b619906318b9b836c50f99df"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-10-11.bin?v=1792406786",
-  "patchSize": 91574,
-  "patchFrom": 10,
-  "patchFromMd5": "89be3173c545019d98f35dcaffbae805"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-11-12.bin?v=1792411239",
+  "patchSize": 104857,
+  "patchFrom": 11,
+  "patchFromMd5": "4c65e92a4d7986d684ea27f00a676c00"
 }
