@@ -1,35 +1,41 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792402664",
-  "apkSize": 40580371,
-  "apkMd5": "89be3173c545019d98f35dcaffbae805",
-  "note": "修复更新包超50MB被CDN截断导致安装包损坏；VT内核改为按需下载(已修正下载路径)，APK缩至约38MB",
-  "force": false,
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792406786",
+  "apkSize": 40582251,
+  "apkMd5": "4c65e92a4d7986d684ea27f00a676c00",
+  "note": "修复 VT 内核启动失败（解压报错）",
+  "force": true,
   "minVersion": 0,
-  "stamp": "1792402664",
+  "stamp": "1792406786",
   "patches": [
     {
+      "from": 10,
+      "url": "https://qingtian144.github.io/update/update/patch-10-11.bin?v=1792406786",
+      "size": 91574,
+      "fromMd5": "89be3173c545019d98f35dcaffbae805"
+    },
+    {
       "from": 9,
-      "url": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792402664",
-      "size": 101462,
+      "url": "https://qingtian144.github.io/update/update/patch-9-11.bin?v=1792406786",
+      "size": 103330,
       "fromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
     },
     {
       "from": 7,
-      "url": "https://qingtian144.github.io/update/update/patch-7-10.bin?v=1792402664",
-      "size": 509058,
+      "url": "https://qingtian144.github.io/update/update/patch-7-11.bin?v=1792406786",
+      "size": 509428,
       "fromMd5": "174b982879d1216a16a10bbb0471c498"
     },
     {
       "from": 5,
-      "url": "https://qingtian144.github.io/update/update/patch-5-10.bin?v=1792402664",
-      "size": 531376,
+      "url": "https://qingtian144.github.io/update/update/patch-5-11.bin?v=1792406786",
+      "size": 534886,
       "fromMd5": "d7110c12b619906318b9b836c50f99df"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792402664",
-  "patchSize": 101462,
-  "patchFrom": 9,
-  "patchFromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-10-11.bin?v=1792406786",
+  "patchSize": 91574,
+  "patchFrom": 10,
+  "patchFromMd5": "89be3173c545019d98f35dcaffbae805"
 }
