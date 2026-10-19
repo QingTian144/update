@@ -1,53 +1,23 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/QingTian144/update/releases/download/v1.0.12/app-debug.apk",
-  "apkSize": 62307269,
-  "apkMd5": "5b30c3ed8f4389fa72bc85bc1b967fe8",
-  "note": "修复bug 添加内核分类",
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/QingTian144/update/releases/download/v1.0.13/app-debug.apk",
+  "apkSize": 59376015,
+  "apkMd5": "08eebb9e87b441f5d4e00cd3642fdd23",
+  "note": "1.增加和平美化 2.增加王者内核于嫣，请刷入LQ驱动使用 3.修复bug",
   "force": false,
   "minVersion": 0,
-  "stamp": "1792413666",
+  "stamp": "1792417869",
   "patches": [
     {
-      "from": 12,
-      "url": "https://qingtian144.github.io/update/update/patch-12-13.bin?v=1792413666",
-      "size": 26718613,
-      "fromMd5": "9ac3eff0b8f8a1232b3f56c9965dbb7e"
-    },
-    {
-      "from": 11,
-      "url": "https://qingtian144.github.io/update/update/patch-11-13.bin?v=1792413666",
-      "size": 26718605,
-      "fromMd5": "4c65e92a4d7986d684ea27f00a676c00"
-    },
-    {
-      "from": 10,
-      "url": "https://qingtian144.github.io/update/update/patch-10-13.bin?v=1792413666",
-      "size": 26718613,
-      "fromMd5": "89be3173c545019d98f35dcaffbae805"
-    },
-    {
-      "from": 9,
-      "url": "https://qingtian144.github.io/update/update/patch-9-13.bin?v=1792413666",
-      "size": 26718687,
-      "fromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
-    },
-    {
-      "from": 7,
-      "url": "https://qingtian144.github.io/update/update/patch-7-13.bin?v=1792413666",
-      "size": 27125106,
-      "fromMd5": "174b982879d1216a16a10bbb0471c498"
-    },
-    {
-      "from": 5,
-      "url": "https://qingtian144.github.io/update/update/patch-5-13.bin?v=1792413666",
-      "size": 27149715,
-      "fromMd5": "d7110c12b619906318b9b836c50f99df"
+      "from": 13,
+      "url": "https://qingtian144.github.io/update/update/patch-13-14.bin?v=1792417869",
+      "size": 26555669,
+      "fromMd5": "5b30c3ed8f4389fa72bc85bc1b967fe8"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-12-13.bin?v=1792413666",
-  "patchSize": 26718613,
-  "patchFrom": 12,
-  "patchFromMd5": "9ac3eff0b8f8a1232b3f56c9965dbb7e"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-13-14.bin?v=1792417869",
+  "patchSize": 26555669,
+  "patchFrom": 13,
+  "patchFromMd5": "5b30c3ed8f4389fa72bc85bc1b967fe8"
 }
