@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://gcore.jsdelivr.net/gh/QingTian144/update@main/update/app-debug.apk?v=1792346328",
-  "note": "新增云更新（免服务器 jsDelivr）；强制更新；VT 内核执行说明；背景光效增强",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://gcore.jsdelivr.net/gh/QingTian144/update@main/update/app-debug.apk?v=1792377894",
+  "note": "VT内核执行3秒后弹出炫酷按钮，点击即暂停音乐并打开和平精英",
   "force": true,
   "minVersion": 0,
-  "stamp": "1792346328"
+  "stamp": "1792377894"
 }
