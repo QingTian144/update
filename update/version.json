@@ -1,35 +1,29 @@
 {
   "versionCode": 9,
   "versionName": "1.0.8",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792394430",
-  "apkSize": 57279195,
-  "apkMd5": "8873e260b807de68605c588ddc70b771",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792396802",
+  "apkSize": 57280447,
+  "apkMd5": "0cba380dc5cb0acf7f2da1827455ac14",
   "note": "修复bug",
   "force": false,
   "minVersion": 0,
-  "stamp": "1792394430",
+  "stamp": "1792396802",
   "patches": [
     {
       "from": 7,
-      "url": "https://qingtian144.github.io/update/update/patch-7-9.bin?v=1792394430",
-      "size": 506591,
+      "url": "https://qingtian144.github.io/update/update/patch-7-9.bin?v=1792396802",
+      "size": 507502,
       "fromMd5": "174b982879d1216a16a10bbb0471c498"
     },
     {
       "from": 5,
-      "url": "https://qingtian144.github.io/update/update/patch-5-9.bin?v=1792394430",
-      "size": 528468,
+      "url": "https://qingtian144.github.io/update/update/patch-5-9.bin?v=1792396802",
+      "size": 529322,
       "fromMd5": "d7110c12b619906318b9b836c50f99df"
-    },
-    {
-      "from": 4,
-      "url": "https://qingtian144.github.io/update/update/patch-4-9.bin?v=1792394430",
-      "size": 528469,
-      "fromMd5": "7eed6fcf2829f2d15ba2f4bbb70b65fd"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-7-9.bin?v=1792394430",
-  "patchSize": 506591,
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-7-9.bin?v=1792396802",
+  "patchSize": 507502,
   "patchFrom": 7,
   "patchFromMd5": "174b982879d1216a16a10bbb0471c498"
 }
