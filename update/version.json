@@ -1,35 +1,35 @@
 {
   "versionCode": 10,
   "versionName": "1.0.9",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792399815",
-  "apkSize": 40580351,
-  "apkMd5": "e79d63af846e2515275c85e0c7d84848",
-  "note": "修复更新包超50MB被CDN截断导致安装包损坏；VT内核改为按需下载，APK缩至约38MB",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792402664",
+  "apkSize": 40580371,
+  "apkMd5": "89be3173c545019d98f35dcaffbae805",
+  "note": "修复更新包超50MB被CDN截断导致安装包损坏；VT内核改为按需下载(已修正下载路径)，APK缩至约38MB",
   "force": false,
   "minVersion": 0,
-  "stamp": "1792399815",
+  "stamp": "1792402664",
   "patches": [
     {
       "from": 9,
-      "url": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792399815",
-      "size": 101443,
+      "url": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792402664",
+      "size": 101462,
       "fromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
     },
     {
       "from": 7,
-      "url": "https://qingtian144.github.io/update/update/patch-7-10.bin?v=1792399815",
-      "size": 509055,
+      "url": "https://qingtian144.github.io/update/update/patch-7-10.bin?v=1792402664",
+      "size": 509058,
       "fromMd5": "174b982879d1216a16a10bbb0471c498"
     },
     {
       "from": 5,
-      "url": "https://qingtian144.github.io/update/update/patch-5-10.bin?v=1792399815",
-      "size": 531360,
+      "url": "https://qingtian144.github.io/update/update/patch-5-10.bin?v=1792402664",
+      "size": 531376,
       "fromMd5": "d7110c12b619906318b9b836c50f99df"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792399815",
-  "patchSize": 101443,
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792402664",
+  "patchSize": 101462,
   "patchFrom": 9,
   "patchFromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
 }
