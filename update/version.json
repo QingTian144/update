@@ -1,9 +1,9 @@
 {
   "versionCode": 4,
   "versionName": "1.0.3",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792381988",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792382052",
   "note": "新增酷炫启动动画；修复 Android 11+ 检测不到和平精英的问题",
   "force": true,
   "minVersion": 0,
-  "stamp": "1792381988"
+  "stamp": "1792382052"
 }
