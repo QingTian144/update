@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792382052",
-  "note": "新增酷炫启动动画；修复 Android 11+ 检测不到和平精英的问题",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792384552",
+  "note": "VT内核执行时自动输入：数字默认1、确认默认y，可一键开关",
   "force": true,
   "minVersion": 0,
-  "stamp": "1792382052"
+  "stamp": "1792384552"
 }
