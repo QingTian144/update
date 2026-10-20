@@ -1,35 +1,78 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://qingtian144.github.io/update/update/app-debug.apk?v=1792399815",
-  "apkSize": 40580351,
-  "apkMd5": "e79d63af846e2515275c85e0c7d84848",
-  "note": "修复更新包超50MB被CDN截断导致安装包损坏；VT内核改为按需下载，APK缩至约38MB",
-  "force": false,
+  "versionCode": 48,
+  "versionName": "1.0.44",
+  "apkUrl": "https://qingtian144.github.io/update/update/tangwanle666-48.apk?v=1792525085",
+  "apkSize": 7414770,
+  "apkMd5": "a26e5f9aa878b37c2cbeb146446f52a0",
+  "note": "【必须更新】1.移除公告页「本应用需Root才能读取内核」冗余说明框；2.修复小屏下「进入/加入粉丝群」按钮被遮挡（内容改为可滚动、按钮常驻底部）；3.重做窗口四周紫青火焰：真实辉光+白热焰心+上升火星，更壮观炫酷。请尽快升级以获得一致体验。",
+  "force": true,
   "minVersion": 0,
-  "stamp": "1792399815",
+  "stamp": "1792525085",
+  "gitee": "https://gitee.com/qingtian9178/update/raw/main/update",
+  "giteeRel": "https://gitee.com/qingtian9178/update/releases/download/assets",
+  "giteeApkUrl": "https://gitee.com/qingtian9178/update/raw/main/update/tangwanle666-48.apk",
+  "panUrl": "https://1821654975.share.123pan.cn/123pan/i0Xfjv-zrWUd?pwd=9178#",
+  "panPwd": "9178",
   "patches": [
     {
-      "from": 9,
-      "url": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792399815",
-      "size": 101443,
-      "fromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
+      "from": 47,
+      "url": "https://qingtian144.github.io/update/update/patch-47-48.bin?v=1792525085",
+      "size": 663820,
+      "md5": "9376ee8be46dd12e2ec136101cf0ee41",
+      "fromMd5": "5b218b1ea519a097a435f1b42df8d133"
     },
     {
-      "from": 7,
-      "url": "https://qingtian144.github.io/update/update/patch-7-10.bin?v=1792399815",
-      "size": 509055,
-      "fromMd5": "174b982879d1216a16a10bbb0471c498"
+      "from": 46,
+      "url": "https://qingtian144.github.io/update/update/patch-46-48.bin?v=1792525085",
+      "size": 743604,
+      "md5": "3810cc9f59a2b4a65dea03929c36fb10",
+      "fromMd5": "9e67bee890b5df33f382135f5c6b9e26"
     },
     {
-      "from": 5,
-      "url": "https://qingtian144.github.io/update/update/patch-5-10.bin?v=1792399815",
-      "size": 531360,
-      "fromMd5": "d7110c12b619906318b9b836c50f99df"
+      "from": 45,
+      "url": "https://qingtian144.github.io/update/update/patch-45-48.bin?v=1792525085",
+      "size": 744643,
+      "md5": "ef597824b31f65a6878a41ca65fc841a",
+      "fromMd5": "b1da20bfac44ac4d8a680b164d7a6a1f"
+    },
+    {
+      "from": 44,
+      "url": "https://qingtian144.github.io/update/update/patch-44-48.bin?v=1792525085",
+      "size": 744633,
+      "md5": "7103bde1b7261f397d289cceaaa82f68",
+      "fromMd5": "64b639d9fc27fa84b6901c4f93208f1f"
+    },
+    {
+      "from": 43,
+      "url": "https://qingtian144.github.io/update/update/patch-43-48.bin?v=1792525085",
+      "size": 744641,
+      "md5": "c310508f34a31a89bf46cf996466e890",
+      "fromMd5": "24516d63b3f601230358a22cf1ac2749"
+    },
+    {
+      "from": 42,
+      "url": "https://qingtian144.github.io/update/update/patch-42-48.bin?v=1792525085",
+      "size": 769757,
+      "md5": "2e1731c3231ed66f31a93d9e276b11e5",
+      "fromMd5": "72863eace06d1058106bd5bc744a1ff8"
+    },
+    {
+      "from": 41,
+      "url": "https://qingtian144.github.io/update/update/patch-41-48.bin?v=1792525085",
+      "size": 769883,
+      "md5": "11a19c3974dab2e0cb6e28915db5f067",
+      "fromMd5": "6101d71856be4e7ca02b7ad305cb6544"
+    },
+    {
+      "from": 40,
+      "url": "https://qingtian144.github.io/update/update/patch-40-48.bin?v=1792525085",
+      "size": 769895,
+      "md5": "997d84213e500a33dce2bfb3daa4c067",
+      "fromMd5": "7c84b141a01fdc64101fd43d6dbff7cb"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-9-10.bin?v=1792399815",
-  "patchSize": 101443,
-  "patchFrom": 9,
-  "patchFromMd5": "0cba380dc5cb0acf7f2da1827455ac14"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-47-48.bin?v=1792525085",
+  "patchSize": 663820,
+  "patchFrom": 47,
+  "patchFromMd5": "5b218b1ea519a097a435f1b42df8d133"
 }
