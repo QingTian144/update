@@ -1,78 +1,78 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.52",
-  "apkUrl": "https://qingtian144.github.io/update/update/%E5%94%90%E5%AE%8C%E4%BA%86_v1.0.52.apk?v=1792599922",
-  "apkSize": 7445303,
-  "apkMd5": "854e56e51e064afc2f03c0420b2d542b",
-  "note": "【首页 3D 重构：分层视差 v1.0.52】1. 重做主菜单 3D：原先把整页（又高又长）当平面绕中心旋转会弯折、且各层一起动没有纵深，已弃用。2. 改为分层视差：雨景在远景反向飘移，卡片栈作为中景随手机整体漂移，Hero 作为近景在卡片之上额外浮出。3. Hero 卡片单独做 rotationX/Y 透视立体倾斜 + 轻微放大，像悬浮的 3D 玻璃卡片；新增左上玻璃高光。4. 跟随旋转矢量传感器与手指滑动，平滑联动。非强制更新，可稍后升级。",
+  "versionCode": 57,
+  "versionName": "1.0.53",
+  "apkUrl": "https://qingtian144.github.io/update/update/%E5%94%90%E5%AE%8C%E4%BA%86_v1.0.53.apk?v=1792604571",
+  "apkSize": 6274714,
+  "apkMd5": "8e6eeefd0e0616fba70706fcf16d1f10",
+  "note": "【首页回归平静布局 + 雨天氛围与玻璃质感升级 v1.0.53】1. 按需求去掉主页 3D 视差，回归原本的平静滚动布局（主菜单不再随手机转动倾斜），雨景改为不随内容滚动的固定背景层。2. 重做下雨特效：远/中/近三层景深雨丝，近处更粗更快更亮、远处更细更淡；雨的方向随时间轻轻摇曳（缓慢摆动的斜风）；漂移冷雾 + 偶发的极淡雨夜余晖。3. 修正「雨发黑」：不再压黑画面，改铺一层明确的蓝色雨夜天幕；雨丝大幅提亮加宽、清晰可见；雾气改为会散射光的偏亮冷雾；暗角大幅减弱。4. 公告弹窗升级为真·磨砂玻璃：截取弹窗背后真实界面模糊后精准对齐铺进卡片（旧做法只是模糊一张静态图，所以不像玻璃）；玻璃层重做（雾面 + 斜向反光 + 上沿亮边 + 更清晰描边）；极光叠层降到 0.30 不再把玻璃糊死；新增镜面扫光缓慢掠过玻璃。非强制更新，可稍后升级。",
   "force": false,
   "minVersion": 0,
-  "stamp": "1792599922",
+  "stamp": "1792604571",
   "gitee": "https://gitee.com/qingtian9178/update/raw/main/update",
   "giteeRel": "https://gitee.com/qingtian9178/update/releases/download/assets",
-  "giteeApkUrl": "https://gitee.com/qingtian9178/update/releases/download/assets/%E5%94%90%E5%AE%8C%E4%BA%86_v1.0.52.apk",
+  "giteeApkUrl": "https://gitee.com/qingtian9178/update/releases/download/assets/%E5%94%90%E5%AE%8C%E4%BA%86_v1.0.53.apk",
   "panUrl": "https://1821654975.share.123pan.cn/123pan/i0Xfjv-zrWUd?pwd=9178#",
   "panPwd": "9178",
   "patches": [
     {
+      "from": 56,
+      "url": "https://qingtian144.github.io/update/update/patch-56-57.bin?v=1792604571",
+      "size": 5174200,
+      "md5": "cbf705751a5aac5c42be84d60177c222",
+      "fromMd5": "854e56e51e064afc2f03c0420b2d542b"
+    },
+    {
       "from": 55,
-      "url": "https://qingtian144.github.io/update/update/patch-55-56.bin?v=1792599922",
-      "size": 699650,
-      "md5": "f1e621e72421f892054d509e07225390",
+      "url": "https://qingtian144.github.io/update/update/patch-55-57.bin?v=1792604571",
+      "size": 5174196,
+      "md5": "492417ec669a514715d93645996fb664",
       "fromMd5": "1c3d4fce51c86be241de08ec8dc06926"
     },
     {
       "from": 53,
-      "url": "https://qingtian144.github.io/update/update/patch-53-56.bin?v=1792599922",
-      "size": 723437,
-      "md5": "f45562ef46fd198c371fb9f3a7255292",
+      "url": "https://qingtian144.github.io/update/update/patch-53-57.bin?v=1792604571",
+      "size": 5178586,
+      "md5": "fc39283a8d4acb635b734fe4cdd7c691",
       "fromMd5": "ce015f3cea1b728ae5fdc69763ccfc0a"
     },
     {
       "from": 52,
-      "url": "https://qingtian144.github.io/update/update/patch-52-56.bin?v=1792599922",
-      "size": 706434,
-      "md5": "7b1c715c80e4503c8b3d6d0ded6e0129",
+      "url": "https://qingtian144.github.io/update/update/patch-52-57.bin?v=1792604571",
+      "size": 5173259,
+      "md5": "0e6a7b6ff4e432a847afc06b0b8d2a4d",
       "fromMd5": "2de82ca45bf6df30d21fdd22908d2f0a"
     },
     {
       "from": 51,
-      "url": "https://qingtian144.github.io/update/update/patch-51-56.bin?v=1792599922",
-      "size": 706425,
-      "md5": "f1eb4dbbd0374e0a437d1789ec5cfd0d",
+      "url": "https://qingtian144.github.io/update/update/patch-51-57.bin?v=1792604571",
+      "size": 5173247,
+      "md5": "d8a6c28646932c2e1e05629b73243279",
       "fromMd5": "c22d2266882ab52921539d107789aca8"
     },
     {
       "from": 50,
-      "url": "https://qingtian144.github.io/update/update/patch-50-56.bin?v=1792599922",
-      "size": 718515,
-      "md5": "69281fe590626ebf39b166842cec7174",
+      "url": "https://qingtian144.github.io/update/update/patch-50-57.bin?v=1792604571",
+      "size": 5173254,
+      "md5": "b8420530662428fb7217e9f9544c3c09",
       "fromMd5": "a1767a9ecc33c82bc0cb1e0f248f8275"
     },
     {
       "from": 49,
-      "url": "https://qingtian144.github.io/update/update/patch-49-56.bin?v=1792599922",
-      "size": 718544,
-      "md5": "59c9bc10f602c2e62e1e2fb19f456ecc",
+      "url": "https://qingtian144.github.io/update/update/patch-49-57.bin?v=1792604571",
+      "size": 5173259,
+      "md5": "7858d291acd025bde13ebe9b01e35b3e",
       "fromMd5": "c74cdae46527d49f2660ce67ca845b1f"
     },
     {
       "from": 48,
-      "url": "https://qingtian144.github.io/update/update/patch-48-56.bin?v=1792599922",
-      "size": 718527,
-      "md5": "9b91e44241325eae27805106e192500a",
+      "url": "https://qingtian144.github.io/update/update/patch-48-57.bin?v=1792604571",
+      "size": 5173238,
+      "md5": "79fb9cc8380578e7bd233e646a872d89",
       "fromMd5": "a26e5f9aa878b37c2cbeb146446f52a0"
-    },
-    {
-      "from": 47,
-      "url": "https://qingtian144.github.io/update/update/patch-47-56.bin?v=1792599922",
-      "size": 718485,
-      "md5": "04689137bf148598e33907c7b0ceb641",
-      "fromMd5": "5b218b1ea519a097a435f1b42df8d133"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-55-56.bin?v=1792599922",
-  "patchSize": 699650,
-  "patchFrom": 55,
-  "patchFromMd5": "1c3d4fce51c86be241de08ec8dc06926"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-56-57.bin?v=1792604571",
+  "patchSize": 5174200,
+  "patchFrom": 56,
+  "patchFromMd5": "854e56e51e064afc2f03c0420b2d542b"
 }
