@@ -1,0 +1,10 @@
+{
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://qingtian144.github.io/update/update/app/musicball_v1.0.2.apk",
+  "note": "新增：QQ音乐风格主页（封面/歌手/圆角卡片）、歌曲搜索、云端动态曲库、云更新自动提醒；软件更名为「情天音乐球」。",
+  "force": false,
+  "minVersion": 0,
+  "apkSize": 4755607,
+  "apkMd5": "eae04ccfc77242c4e03be1058370e72d"
+}
