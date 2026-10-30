@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://qingtian144.github.io/update/update/app/musicball_v1.0.2.apk",
-  "note": "新增：QQ音乐风格主页（封面/歌手/圆角卡片）、歌曲搜索、云端动态曲库、云更新自动提醒；软件更名为「情天音乐球」。",
-  "force": false,
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://qingtian144.github.io/update/update/app/musicball_v1.0.3.apk",
+  "note": "新增24首周杰伦热门（已压缩，边下边听）；修复在线试听连点两首同时播放的BUG；每首歌配专属彩色封面头像；全新极光炫酷界面；新增「反馈/求歌」通道（直发作者邮箱）；进入即弹欢迎窗。本次为强制更新。",
+  "force": true,
   "minVersion": 0,
-  "apkSize": 4755607,
-  "apkMd5": "eae04ccfc77242c4e03be1058370e72d"
+  "apkSize": 4787796,
+  "apkMd5": "30403f126ddb2c54f133dca53ea48ccf"
 }
