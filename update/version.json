@@ -1,13 +1,13 @@
 {
   "versionCode": 84,
   "versionName": "1.4.0",
-  "apkUrl": "https://qingtian144.github.io/update/update/%E5%94%90%E5%AE%8C%E4%BA%86_v1.4.0.apk?v=1794857790",
+  "apkUrl": "https://qingtian144.github.io/update/update/%E5%94%90%E5%AE%8C%E4%BA%86_v1.4.0.apk?v=1794858058",
   "apkSize": 7761844,
   "apkMd5": "baff1e7ffd27187b8c1fae326a34f092",
   "note": "新增王者-GROK内核，VT/于嫣内核升级，音乐球回归，修复导航与更新弹窗，下载提速，界面图标焕新",
-  "force": false,
+  "force": true,
   "minVersion": 0,
-  "stamp": "1794857790",
+  "stamp": "1794858058",
   "gitee": "https://gitee.com/qingtian9178/update/raw/main/update",
   "giteeRel": "https://gitee.com/qingtian9178/update/releases/download/assets",
   "giteeApkUrl": "https://gitee.com/qingtian9178/update/releases/download/assets/%E5%94%90%E5%AE%8C%E4%BA%86_v1.4.0.apk",
@@ -16,62 +16,55 @@
   "patches": [
     {
       "from": 83,
-      "url": "https://qingtian144.github.io/update/update/patch-83-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-83-84.bin?v=1794858058",
       "size": 3738744,
-      "md5": "82855150c10ba82746822f36dc9e03b9",
+      "md5": "10cb3452827dbac8c6ad359562b2c502",
       "fromMd5": "d9b1cadbb80c7ba555a8680797bd11ba"
     },
     {
       "from": 82,
-      "url": "https://qingtian144.github.io/update/update/patch-82-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-82-84.bin?v=1794858058",
       "size": 3772483,
-      "md5": "8ed3593faff6b9be5ae71899bc1a0e9e",
+      "md5": "549f0b2c58a5472709f792353ac45d07",
       "fromMd5": "369b942cfe57ef052444a6c76c4fd32b"
     },
     {
       "from": 81,
-      "url": "https://qingtian144.github.io/update/update/patch-81-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-81-84.bin?v=1794858058",
       "size": 3772646,
-      "md5": "0600e7ebd555be6fa7471b6ff7636567",
+      "md5": "17530fbb24e685b93561843b4a0124aa",
       "fromMd5": "d9dd34580087eb78b16fcbef7b0beacb"
     },
     {
       "from": 80,
-      "url": "https://qingtian144.github.io/update/update/patch-80-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-80-84.bin?v=1794858058",
       "size": 4024851,
-      "md5": "d543928ee062316124beb9f96a713926",
+      "md5": "7001ec02e41daa54ad6f76e248bc71f7",
       "fromMd5": "90337f21da0bfb7908632be1d21acecc"
     },
     {
       "from": 79,
-      "url": "https://qingtian144.github.io/update/update/patch-79-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-79-84.bin?v=1794858058",
       "size": 4024867,
-      "md5": "4cb616f8de9ce2de13672f59d21759e3",
+      "md5": "a4e1c157013dcb26b949db5a9bb52bf6",
       "fromMd5": "38e8b8a943c2e16cd8de83fa37e8612a"
     },
     {
       "from": 78,
-      "url": "https://qingtian144.github.io/update/update/patch-78-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-78-84.bin?v=1794858058",
       "size": 4066285,
-      "md5": "6c75a7b7f70a2f8ad65bac214817bf31",
+      "md5": "630c3b46bab572d63af1b93dd0d2519f",
       "fromMd5": "ba0c5688848cab647402ddd04d2b4297"
     },
     {
       "from": 77,
-      "url": "https://qingtian144.github.io/update/update/patch-77-84.bin?v=1794857790",
+      "url": "https://qingtian144.github.io/update/update/patch-77-84.bin?v=1794858058",
       "size": 4067009,
-      "md5": "715d57fdd41723a38903e3c3435b0085",
+      "md5": "e16365ff212b4196e1cc2ff4640a8868",
       "fromMd5": "154ded42ba3523735c928169ff068275"
-    },
-    {
-      "from": 76,
-      "url": "https://qingtian144.github.io/update/update/patch-76-84.bin?v=1794857790",
-      "size": 4067025,
-      "md5": "ebc69f89844c8d5bfd7d034b9d276c71",
-      "fromMd5": "a5107cf844a42c9eacc855e8ba447551"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-83-84.bin?v=1794857790",
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-83-84.bin?v=1794858058",
   "patchSize": 3738744,
   "patchFrom": 83,
   "patchFromMd5": "d9b1cadbb80c7ba555a8680797bd11ba"
