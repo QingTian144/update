@@ -1,78 +1,78 @@
 {
-  "versionCode": 87,
-  "versionName": "1.5.0",
-  "apkUrl": "https://qingtian144.github.io/update/update/%E6%83%85%E5%A4%A9_v1.5.0.apk?v=1795334416",
-  "apkSize": 7752131,
-  "apkMd5": "9cbbf7eacc0e6e1f9e409aec92057429",
-  "note": "软件正式更名为「情天」，全新品牌视觉，界面与弹窗全面精简优化。",
-  "force": false,
+  "versionCode": 88,
+  "versionName": "1.5.1",
+  "apkUrl": "https://qingtian144.github.io/update/update/%E6%83%85%E5%A4%A9_v1.5.1.apk?v=1795346301",
+  "apkSize": 7750711,
+  "apkMd5": "12fcfd9aa861f1aec672e6e725417c8a",
+  "note": "全面优化界面质感与交互细节，精简冗余弹窗，提升稳定性。",
+  "force": true,
   "minVersion": 0,
-  "stamp": "1795334416",
+  "stamp": "1795346301",
   "gitee": "https://gitee.com/qingtian9178/update/raw/main/update",
   "giteeRel": "https://gitee.com/qingtian9178/update/releases/download/assets",
-  "giteeApkUrl": "https://gitee.com/qingtian9178/update/releases/download/assets/%E6%83%85%E5%A4%A9_v1.5.0.apk",
+  "giteeApkUrl": "https://gitee.com/qingtian9178/update/releases/download/assets/%E6%83%85%E5%A4%A9_v1.5.1.apk",
   "panUrl": "https://1821654975.share.123pan.cn/123pan/i0Xfjv-zrWUd?pwd=9178#",
   "panPwd": "9178",
   "patches": [
     {
+      "from": 87,
+      "url": "https://qingtian144.github.io/update/update/patch-87-88.bin?v=1795346301",
+      "size": 3762717,
+      "md5": "3deac717321a87dc3731955815143bba",
+      "fromMd5": "9cbbf7eacc0e6e1f9e409aec92057429"
+    },
+    {
       "from": 86,
-      "url": "https://qingtian144.github.io/update/update/patch-86-87.bin?v=1795334416",
-      "size": 3772424,
-      "md5": "dd2bbd9cb859a0054fbe19718441bad1",
+      "url": "https://qingtian144.github.io/update/update/patch-86-88.bin?v=1795346301",
+      "size": 3777929,
+      "md5": "667e9a0fd8fe9c5f2e5b9f375aa37a4c",
       "fromMd5": "f19dce3245a124008159e558f99c5562"
     },
     {
       "from": 85,
-      "url": "https://qingtian144.github.io/update/update/patch-85-87.bin?v=1795334416",
-      "size": 3772427,
-      "md5": "f7d40ddd50dde22eb02ab80606d4a41a",
+      "url": "https://qingtian144.github.io/update/update/patch-85-88.bin?v=1795346301",
+      "size": 3777932,
+      "md5": "6c7309d7d13a7754331f9ce4ba42b42b",
       "fromMd5": "b9addb23e5d9a7f1cc5ce243c6144dbe"
     },
     {
       "from": 84,
-      "url": "https://qingtian144.github.io/update/update/patch-84-87.bin?v=1795334416",
-      "size": 3772428,
-      "md5": "fb3ed64abddf9ad9ef4833f5245c33f6",
+      "url": "https://qingtian144.github.io/update/update/patch-84-88.bin?v=1795346301",
+      "size": 3777941,
+      "md5": "14c8ab4d8180056e4091d414e2e68c64",
       "fromMd5": "baff1e7ffd27187b8c1fae326a34f092"
     },
     {
       "from": 83,
-      "url": "https://qingtian144.github.io/update/update/patch-83-87.bin?v=1795334416",
-      "size": 3788208,
-      "md5": "823c31b07d72615a4759bd794738529a",
+      "url": "https://qingtian144.github.io/update/update/patch-83-88.bin?v=1795346301",
+      "size": 3793523,
+      "md5": "eebd86256d748cb0f5d6d6002b43cbc3",
       "fromMd5": "d9b1cadbb80c7ba555a8680797bd11ba"
     },
     {
       "from": 82,
-      "url": "https://qingtian144.github.io/update/update/patch-82-87.bin?v=1795334416",
-      "size": 3798327,
-      "md5": "8d0f3bb6f2ccde1f882587dfa9b7448b",
+      "url": "https://qingtian144.github.io/update/update/patch-82-88.bin?v=1795346301",
+      "size": 3804872,
+      "md5": "169a11329d4f9b9b261b0207857f51dd",
       "fromMd5": "369b942cfe57ef052444a6c76c4fd32b"
     },
     {
       "from": 81,
-      "url": "https://qingtian144.github.io/update/update/patch-81-87.bin?v=1795334416",
-      "size": 3798878,
-      "md5": "960f2130f83812966c80a56f1b3b8241",
+      "url": "https://qingtian144.github.io/update/update/patch-81-88.bin?v=1795346301",
+      "size": 3805030,
+      "md5": "54ebb27207cd008597a799f4a94e9e69",
       "fromMd5": "d9dd34580087eb78b16fcbef7b0beacb"
     },
     {
       "from": 80,
-      "url": "https://qingtian144.github.io/update/update/patch-80-87.bin?v=1795334416",
-      "size": 4051950,
-      "md5": "a6c6b7918368fef09337ad736a34531c",
+      "url": "https://qingtian144.github.io/update/update/patch-80-88.bin?v=1795346301",
+      "size": 4056775,
+      "md5": "bd10da174d400a8e147211a71aa4410e",
       "fromMd5": "90337f21da0bfb7908632be1d21acecc"
-    },
-    {
-      "from": 79,
-      "url": "https://qingtian144.github.io/update/update/patch-79-87.bin?v=1795334416",
-      "size": 4051956,
-      "md5": "473882fe9b1c54aee0670682fe069d7e",
-      "fromMd5": "38e8b8a943c2e16cd8de83fa37e8612a"
     }
   ],
-  "patchUrl": "https://qingtian144.github.io/update/update/patch-86-87.bin?v=1795334416",
-  "patchSize": 3772424,
-  "patchFrom": 86,
-  "patchFromMd5": "f19dce3245a124008159e558f99c5562"
+  "patchUrl": "https://qingtian144.github.io/update/update/patch-87-88.bin?v=1795346301",
+  "patchSize": 3762717,
+  "patchFrom": 87,
+  "patchFromMd5": "9cbbf7eacc0e6e1f9e409aec92057429"
 }
